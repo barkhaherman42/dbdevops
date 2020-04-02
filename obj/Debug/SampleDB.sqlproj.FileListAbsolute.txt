@@ -1,0 +1,9 @@
+C:\Projects\AzureDemos\SampleDB\bin\Debug\SampleDB.dacpac
+C:\Projects\AzureDemos\SampleDB\bin\Debug\SampleDB.dll
+C:\Projects\AzureDemos\SampleDB\bin\Debug\SampleDB.pdb
+C:\Projects\AzureDemos\SampleDB\obj\Debug\Model.xml
+C:\Projects\AzureDemos\SampleDB\obj\Debug\refactor.xml
+C:\Projects\AzureDemos\SampleDB\obj\Debug\postdeploy.sql
+C:\Projects\AzureDemos\SampleDB\obj\Debug\predeploy.sql
+C:\Projects\AzureDemos\SampleDB\obj\Debug\SampleDB.dll
+C:\Projects\AzureDemos\SampleDB\obj\Debug\SampleDB.pdb
