@@ -1,6 +1,0 @@
-C:\Projects\AzureDemos\SampleDB\bin\Debug\SampleDB.dacpac
-C:\Projects\AzureDemos\SampleDB\bin\Debug\SampleDB.dll
-C:\Projects\AzureDemos\SampleDB\bin\Debug\SampleDB.pdb
-C:\Projects\AzureDemos\SampleDB\obj\Debug\SampleDB.dll
-C:\Projects\AzureDemos\SampleDB\obj\Debug\SampleDB.pdb
-C:\Projects\AzureDemos\SampleDB\obj\Debug\SampleDB.sqlprojAssemblyReference.cache
